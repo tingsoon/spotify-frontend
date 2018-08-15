@@ -6,7 +6,7 @@ class Sidebar extends React.Component {
       return (
         <div>
             <p id="error-message">{this.props.errorMessage}</p>
-            <a id="error-message" href="http://localhost:8888/login">Click Here if token expires.</a>
+            <a id="error-message" href="https://beats-by-tings-b.herokuapp.com/login">Click Here if token expires.</a>
             <p id="summary"><span><i class="fas fa-headphones"></i></span> Beats by Tings was made using ReactJs with Spotify API as part of the final project of General Assembly Web Immersive Course.</p>
         </div>
       );
