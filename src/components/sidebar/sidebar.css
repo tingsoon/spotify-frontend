@@ -1,0 +1,14 @@
+#error-message{
+    /* margin-top: 700px; */
+    font-size: 12px;
+    position: relative;
+    top: 17px;
+    color: #404040;
+}
+
+#summary {
+    font-size: 12px;
+    position: relative;
+    top: 25px;
+    color: #404040;
+}

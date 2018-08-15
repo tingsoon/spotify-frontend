@@ -1,0 +1,51 @@
+input::placeholder {
+   font-size: 12px;
+  }
+
+#input-width {
+    width: 300px;
+    border-radius: 1rem;
+    position: relative;
+    top: 4px;
+}
+
+#welcome {
+    font-size: 12px;
+}
+
+.navbar {
+    background-color: transparent ;
+    transition: 0.5s;
+    opacity: 0.5;
+}
+
+.navbar:hover {
+    opacity: 1;
+}
+
+#user-link {
+    text-decoration: none;
+    color: #404040;
+}
+
+#user-link:hover {
+    text-decoration-line: underline;
+    /* color: blue; */
+}
+
+#nav-title {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    right: 100px;
+}
+
+.fa-headphones {
+    display: inline-block;
+}
+
+#title {
+    display: inline-block;
+    padding: 5px;
+}
